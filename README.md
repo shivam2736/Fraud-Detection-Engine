@@ -303,14 +303,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Engineering Team** - System architecture and implementation
 - **Security Team** - Compliance and security review
 - **Business Stakeholders** - Requirements and validation
-
-## 📞 Contact
-
-**Project Maintainer**: [Your Name]
-- 📧 Email: your.email@company.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
 ---
 
 <div align="center">
