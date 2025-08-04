@@ -297,14 +297,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Data Science Team** - Model development and validation
-- **Engineering Team** - System architecture and implementation
-- **Security Team** - Compliance and security review
-- **Business Stakeholders** - Requirements and validation
----
-
 <div align="center">
 
 **⭐ Star this repository if it helped you!**
